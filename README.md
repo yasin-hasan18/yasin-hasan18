@@ -1,205 +1,24 @@
-👋 Hi, I'm Yasin Hasan
 
-"IIT Student" • "Competitive Programmer" • "Aspiring Software Engineer"
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1537494938164531231/1537494938743218299) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/yasinhasan2508) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/why__yasin/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasinhasan2508@gmail.com) 
 
-«Learning by solving. Building by experimenting. Improving one problem at a time.»
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yasin-hasan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yasin-hasan18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yasin-hasan18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Competitive+Programming+%7C+DSA;C%2B%2B+%7C+Java+%7C+Python;Building+Projects+%7C+Learning+Every+Day;Turning+Problems+into+Solutions" alt="Typing SVG" />
-</p><p align="center">
-  <a href="https://github.com/yasin-hasan18">
-    <img src="https://img.shields.io/badge/GitHub-yasin--hasan18-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://codeforces.com/profile/voidX_">
-    <img src="https://img.shields.io/badge/Codeforces-voidX__-1F8ACB?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/_yasin_hasan_/">
-    <img src="https://img.shields.io/badge/LeetCode-_yasin__hasan_-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yasin-hasan18&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-🌱 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I'm a Institute of Information Technology student at Jahangirnagar University with a strong interest in Competitive Programming, Data Structures & Algorithms, and Software Development.
-
-I enjoy breaking difficult concepts into smaller pieces, solving problems repeatedly until the logic becomes clear, and turning what I learn into practical projects.
-
-- 🎓 IIT Student
-- 🧠 Focused on Problem Solving & DSA
-- 🧩 Practicing Competitive Programming
-- 💻 Mainly working with C++
-- ☕ Exploring Java & OOP
-- 🐍 Learning and experimenting with Python
-- 🛠️ Building small projects to turn theory into practice
-- 🚀 Working toward becoming a strong Software Engineer
-
-«My goal isn't just to write code — it's to understand why the code works.»
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yasin-hasan18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=yasin-hasan18&icon=3&color=2)](https://visitcount.itsvg.in)
 
-🧠 Competitive Programming
-
-Competitive Programming is one of the biggest parts of my learning journey.
-
-I use it to improve:
-
-- Problem Solving
-- Algorithms & Data Structures
-- Logical Thinking
-- Time & Space Complexity
-- Implementation Skills
-- Debugging
-
-🧠 Competitive Programming
-
-I enjoy solving algorithmic problems and using Competitive Programming to sharpen my problem-solving skills.
-
-🌐 - 🔵 **Codeforces:** [voidX_](https://codeforces.com/profile/voidX_)
-- 🟠 **LeetCode:** [yasin_hasan](https://leetcode.com/u/_yasin_hasan_/)
-
-⚡ Current Learning Path
-
-Data Structures
-      ↓
-Algorithms
-      ↓
-Problem Solving
-      ↓
-Competitive Programming
-      ↓
-Advanced DSA
-
----
-
-🛠️ Tech Stack
-
-💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
-  <img src="https://skillicons.dev/icons?i=java" width="50" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-</p>C++ — Primary language • Competitive Programming • DSA
-Java — OOP • Academic & Personal Projects
-Python — Currently learning • Exploring AI/ML
-
-🔧 Tools I Use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>"Git" • "GitHub" • "VS Code" • "Linux"
-
----
-
-📚 Currently Learning
-
-🔥 Competitive Programming
-🧠 Data Structures & Algorithms
-🌳 Trees & Graphs
-⚡ Dynamic Programming
-☕ Java & OOP
-🐍 Python
-🤖 Exploring AI/ML
-
----
-
-🚀 Developer Journey
-
-C++ & STL
-   ↓
-Data Structures & Algorithms
-   ↓
-Competitive Programming
-   ↓
-Java & OOP
-   ↓
-Building Projects
-   ↓
-Python
-   ↓
-AI / ML
-
-«Learn → Practice → Build → Fail → Debug → Improve → Repeat.»
-
----
-
-📌 What I'm Working Towards
-
-- 🏆 Becoming stronger at Competitive Programming
-- 🧠 Building a solid foundation in DSA
-- 💻 Creating meaningful software projects
-- 🌐 Exploring different areas of Software Development
-- 🤖 Gradually moving toward AI/ML
-- 🚀 Becoming a well-rounded Software Engineer
-
----
-
-<p align="center">
-  <b>⚡ Code. Solve. Build. Repeat.</b>
-</p>
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasin-hasan18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-hasan18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasin-hasan18&theme=tokyonight&hide_border=true" />
-</p>---
-
-📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin-hasan18&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>---
-
-🎯 My Learning Philosophy
-
-Learn
-  ↓
-Understand
-  ↓
-Practice
-  ↓
-Get Stuck
-  ↓
-Debug
-  ↓
-Understand Better
-  ↓
-Build
-  ↓
-Repeat 🔁
-
-I believe getting stuck is part of becoming better at programming.
-
-Every wrong answer, bug, failed approach, and solved problem adds something to the journey.
-
----
-
-🚀 What's Next?
-
-- 🧠 Go deeper into DSA
-- 🏆 Improve Competitive Programming skills
-- 🌳 Master Trees & Graphs
-- ⚡ Learn Dynamic Programming properly
-- 🛠️ Build more practical projects
-- 🌐 Explore Software & Web Development
-- 🤖 Gradually explore AI/ML
-- 📈 Keep improving my problem-solving ability
-
----
-
-💬 Let's Connect
-
-I'm always interested in discussing:
-
-C++ • DSA • Competitive Programming • Java • OOP • Problem Solving • Projects
-
-<p align="center">"Solving Problems. Building Things. Growing Every Day. 🚀"
-
-</p>---
-
-<p align="center">
-  <i>Thanks for visiting my profile!</i> 👋
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
