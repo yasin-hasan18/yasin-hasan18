@@ -54,10 +54,8 @@ I use it to improve:
 
 I enjoy solving algorithmic problems and using Competitive Programming to sharpen my problem-solving skills.
 
-🌐 Coding Profiles
-
-- 🔵 Codeforces: "voidX_" (https://codeforces.com/profile/voidX_)
-- 🟠 LeetCode: "yasin_hasan" (https://leetcode.com/u/_yasin_hasan_/)
+🌐 - 🔵 **Codeforces:** [voidX_](https://codeforces.com/profile/voidX_)
+- 🟠 **LeetCode:** [yasin_hasan](https://leetcode.com/u/_yasin_hasan_/)
 
 ⚡ Current Learning Path
 
