@@ -50,55 +50,95 @@ I use it to improve:
 - Implementation Skills
 - Debugging
 
-🔥 Current Focus
+🧠 Competitive Programming
 
-DSA
- ├── Arrays & Strings
- ├── Binary Search
- ├── Recursion
- ├── STL
- ├── Trees
- ├── Graphs
- ├── Dynamic Programming
- └── Advanced Algorithms
+I enjoy solving algorithmic problems and using Competitive Programming to sharpen my problem-solving skills.
 
-🏆 Profiles
+🌐 Coding Profiles
 
-Platform| Profile
-🔵 Codeforces| "voidX_" (https://codeforces.com/profile/voidX_)
-🟠 LeetCode| "yasin_hasan" (https://leetcode.com/u/_yasin_hasan_/)
+- 🔵 Codeforces: "voidX_" (https://codeforces.com/profile/voidX_)
+- 🟠 LeetCode: "yasin_hasan" (https://leetcode.com/u/_yasin_hasan_/)
 
----
+⚡ Current Learning Path
 
-💻 Projects
-
-🏠 HomeInventory
-
-A Java-based project focused on managing household inventory.
-
-Tech: "Java" • "OOP"
-
-🧩 CP With Yash
-
-A collection of beginner-level Competitive Programming problems and solutions.
-
-Tech: "C++" • "DSA" • "Problem Solving"
-
-«More projects are coming as I continue learning and experimenting.»
+Data Structures
+      ↓
+Algorithms
+      ↓
+Problem Solving
+      ↓
+Competitive Programming
+      ↓
+Advanced DSA
 
 ---
 
 🛠️ Tech Stack
 
-Languages
+💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
-</p>Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+</p>C++ — Primary language • Competitive Programming • DSA
+Java — OOP • Academic & Personal Projects
+Python — Currently learning • Exploring AI/ML
 
-<p>
+🔧 Tools I Use
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>---
+</p>"Git" • "GitHub" • "VS Code" • "Linux"
+
+---
+
+📚 Currently Learning
+
+🔥 Competitive Programming
+🧠 Data Structures & Algorithms
+🌳 Trees & Graphs
+⚡ Dynamic Programming
+☕ Java & OOP
+🐍 Python
+🤖 Exploring AI/ML
+
+---
+
+🚀 Developer Journey
+
+C++ & STL
+   ↓
+Data Structures & Algorithms
+   ↓
+Competitive Programming
+   ↓
+Java & OOP
+   ↓
+Building Projects
+   ↓
+Python
+   ↓
+AI / ML
+
+«Learn → Practice → Build → Fail → Debug → Improve → Repeat.»
+
+---
+
+📌 What I'm Working Towards
+
+- 🏆 Becoming stronger at Competitive Programming
+- 🧠 Building a solid foundation in DSA
+- 💻 Creating meaningful software projects
+- 🌐 Exploring different areas of Software Development
+- 🤖 Gradually moving toward AI/ML
+- 🚀 Becoming a well-rounded Software Engineer
+
+---
+
+<p align="center">
+  <b>⚡ Code. Solve. Build. Repeat.</b>
+</p>
 
 📊 GitHub Stats
 
