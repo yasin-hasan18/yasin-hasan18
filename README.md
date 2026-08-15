@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm **Yasin Hasan**, a Computer Science student who enjoys solving problems, building projects, and learning how things work under the hood.
+I'm **Yasin Hasan**, a Institute of information technology student who enjoys solving problems, building projects, and learning how things work under the hood.
 
 * 🎓 IIT Student
 * 💻 Passionate about **Competitive Programming & Software Development**
