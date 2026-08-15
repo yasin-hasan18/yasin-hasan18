@@ -2,154 +2,251 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=IIT+Student;Competitive+Programmer;C%2B%2B+%7C+Java+Developer;OOP+%26+Problem+Solving+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=IIT+Student+%7C+Problem+Solver;Competitive+Programmer;C%2B%2B+%7C+Java+Developer;OOP+%7C+DSA+%7C+Software+Development;Turning+Problems+Into+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yasin-hasan18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<a href="https://github.com/yasin-hasan18">
+<img src="https://komarev.com/ghpvc/?username=yasin-hasan18&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/yasin-hasan18?tab=followers">
+<img src="https://img.shields.io/github/followers/yasin-hasan18?label=Followers&style=for-the-badge&color=6A5ACD" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/yasin-hasan18?tab=repositories">
+<img src="https://img.shields.io/github/stars/yasin-hasan18?label=Stars&style=for-the-badge&color=F7DF1E" alt="GitHub Stars"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm **Yasin Hasan**, a Institute of information technology student who enjoys solving problems, building projects, and learning how things work under the hood.
+I'm **Yasin Hasan**, an **Institute of Information Technology (IIT) student** passionate about programming, problem solving, and software development.
 
-* 🎓 IIT Student
-* 💻 Passionate about **Competitive Programming & Software Development**
-* 🧠 Currently improving my **Data Structures & Algorithms**
-* ☕ Building projects with **Java & Object-Oriented Programming**
-* ⚡ Solving problems using **C++**
-* 🔥 Interested in **AI, Machine Learning & Data Science**
-* 🌱 Always learning, experimenting, and improving
+I enjoy breaking down complex problems into smaller pieces, understanding the logic behind them, and turning those ideas into working solutions.
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                    YASIN HASAN                       │
+├──────────────────────────────────────────────────────┤
+│ 🎓  IIT Student                                      │
+│ 💻  Competitive Programmer                           │
+│ 🧠  Problem Solving Enthusiast                       │
+│ ☕  Java & OOP Developer                             │
+│ ⚡  C++ Problem Solver                               │
+│ 📚  DSA Learner                                      │
+│ 🤖  Exploring AI / ML / Data Science                 │
+│ 🚀  Building • Learning • Improving                  │
+└──────────────────────────────────────────────────────┘
+```
+
+### ⚡ Quick Facts
+
+* 🎓 Studying at **Institute of Information Technology**
+* 💻 Focused on **Competitive Programming & Software Development**
+* 🧠 Currently strengthening **Data Structures & Algorithms**
+* ☕ Building academic and practical projects with **Java**
+* ⚡ Using **C++** for competitive programming
+* 🔥 Exploring **AI, Machine Learning & Data Science**
+* 🌱 Learning something new every day
 
 > **"Consistency beats intensity."**
 
 ---
 
-## 🧠 Competitive Programming
+# 🧠 Competitive Programming
 
-Competitive Programming is one of my main focuses.
+Competitive Programming is one of my core areas of interest.
 
-### 🏆 Codeforces
+I use it to improve my logical thinking, algorithmic skills, speed, and ability to approach unfamiliar problems.
+
+## 🏆 Codeforces
+
+<div align="center">
 
 <a href="https://codeforces.com/profile/voidX_">
 <img src="https://img.shields.io/badge/Codeforces-voidX_-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-**Current Level:** Newbie
-**Current Focus:** Problem Solving → Algorithms → Data Structures
-**Goal:** 🚀 Reach **1200+**
+<br><br>
 
-I mainly practice:
+<img src="https://img.shields.io/badge/Current%20Level-Newbie-00BFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Goal-1200%2B-6A5ACD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-DSA-F7DF1E?style=flat-square"/>
 
-* Implementation
-* Brute Force
-* Greedy
-* Sorting
-* Arrays & Strings
-* Binary Search
-* Basic Number Theory
-* Data Structures
-* Dynamic Programming
-* Constructive Algorithms
+</div>
+
+### 📚 Topics I Practice
+
+| Category           | Topics                         |
+| ------------------ | ------------------------------ |
+| 🔹 Fundamentals    | Implementation, Brute Force    |
+| 🔹 Algorithms      | Greedy, Binary Search, Sorting |
+| 🔹 Data Structures | Arrays, Strings, Basic STL     |
+| 🔹 Mathematics     | Basic Number Theory            |
+| 🔹 Advanced        | Dynamic Programming            |
+| 🔹 Problem Solving | Constructive Algorithms        |
+
+🎯 **Current Goal:** Reach **1200+ Codeforces**
 
 ---
 
-## 💡 LeetCode
+# 💡 LeetCode
+
+<div align="center">
 
 <a href="https://leetcode.com/u/voidX__/">
 <img src="https://img.shields.io/badge/LeetCode-voidX__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-I use LeetCode to strengthen my problem-solving skills and practice different algorithmic patterns.
+</div>
+
+I use **LeetCode** alongside Codeforces to practice algorithmic patterns, data structures, and structured problem solving.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+<div align="center">
 
-### 🧰 Tools & Technologies
+<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" />
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-</p>
+</div>
 
----
+## 🧰 Tools & Environment
 
-## 🚧 Currently Working On
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netbeans&theme=dark" />
+
+</div>
+
+### 🔧 Technologies I Work With
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║  🧠 Competitive Programming                     ║
-║  ☕ Java & Object-Oriented Programming            ║
-║  💻 C++ Problem Solving                          ║
-║  📚 Data Structures & Algorithms                 ║
-║  🚀 Software Development                         ║
-║  🤖 Exploring AI / ML / Data Science             ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+C / C++
+   │
+   ├── Problem Solving
+   ├── Competitive Programming
+   ├── Algorithms
+   └── Data Structures
+
+Java
+   │
+   ├── Object-Oriented Programming
+   ├── GUI Development
+   ├── Database Integration
+   └── Project Development
+
+Git / GitHub
+   │
+   ├── Version Control
+   ├── Repository Management
+   └── Project Collaboration
 ```
 
 ---
 
-## 📌 Featured Project
+# 🚧 Currently Working On
 
-### 🏠 HomeInventory
+<div align="center">
+
+| 🧠 Area                 | 🚀 Focus                    |
+| ----------------------- | ---------------------------- |
+| Competitive Programming | Algorithms & Problem Solving |
+| Data Structures         | Strengthening Fundamentals   |
+| Java                    | OOP & Project Development    |
+| C++                     | Competitive Programming      |
+| Software Development    | Real-world Projects          |
+| AI / ML                 | Exploring the Fundamentals   |
+
+</div>
+
+---
+
+# 📌 Featured Project
+
+## 🏠 HomeInventory
+
+<a href="https://github.com/yasin-hasan18/HomeInventory">
+
+<img src="https://img.shields.io/badge/View%20Project-HomeInventory-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 A Java-based **Home Inventory Management System** developed as an Object-Oriented Programming project.
 
-**Key concepts:**
+### ✨ Highlights
 
-* Object-Oriented Programming
-* Classes & Objects
-* Inheritance
-* Encapsulation
-* Polymorphism
-* Java GUI
-* Database integration
-* CRUD operations
+* ☕ Java-based application
+* 🧩 Object-Oriented Design
+* 🔐 Encapsulation
+* 🧬 Inheritance
+* 🔄 Polymorphism
+* 🖥️ GUI
+* 🗄️ Database Integration
+* ➕ Create
+* 👁️ Read
+* ✏️ Update
+* 🗑️ Delete
 
-🔗 **Repository:**
-https://github.com/yasin-hasan18/HomeInventory
+### 🧠 Concepts Applied
+
+```text
+OOP
+├── Classes & Objects
+├── Encapsulation
+├── Inheritance
+├── Polymorphism
+├── Abstraction
+└── Object-Oriented Design
+
+Application
+├── GUI
+├── Database
+└── CRUD Operations
+```
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yasin-hasan18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yasin-hasan18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-hasan18&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-hasan18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yasin-hasan18&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=yasin-hasan18&theme=tokyonight&hide_border=true&mode=weekly" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasin-hasan18&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -159,61 +256,145 @@ https://github.com/yasin-hasan18/HomeInventory
 
 ---
 
-## 🎯 2026 Goals
-
-* [ ] 🚀 Reach **1400+ Codeforces**
-* [ ] 🧠 Become stronger in Data Structures & Algorithms
-* [ ] ☕ Build more advanced Java projects
-* [ ] 💻 Improve C++ problem-solving skills
-* [ ] 🏗️ Build real-world software projects
-* [ ] 🤖 Start exploring Machine Learning seriously
-* [ ] 📚 Maintain consistent GitHub activity
-* [ ] 🌎 Build projects that are useful beyond academic coursework
-
----
-
-## 📈 My Learning Journey
+# 🎯 2026 Goals
 
 ```text
-C
-│
-├── C++
-│   └── Competitive Programming
-│       ├── Algorithms
-│       ├── Data Structures
-│       └── Problem Solving
-│
-└── Java
-    └── Object-Oriented Programming
-        ├── Classes & Objects
-        ├── Inheritance
-        ├── Polymorphism
-        ├── Encapsulation
-        └── Project Development
-
-Next →
-Software Development
-        ↓
-Data Science
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Generative AI 🚀
+2026
+ │
+ ├── 🚀 Reach 1200+ Codeforces
+ │
+ ├── 🧠 Strengthen DSA
+ │
+ ├── 💻 Solve More Competitive Programming Problems
+ │
+ ├── ☕ Build Advanced Java Projects
+ │
+ ├── 🏗️ Build Real-World Software
+ │
+ ├── 🤖 Learn Machine Learning Fundamentals
+ │
+ ├── 📊 Explore Data Science
+ │
+ └── 🌎 Build Useful Open-Source Projects
 ```
+
+### Progress Checklist
+
+* [ ] 🚀 Reach **1200+ Codeforces**
+* [ ] 🧠 Master core DSA concepts
+* [ ] 💻 Solve more algorithmic problems
+* [ ] ☕ Build advanced Java projects
+* [ ] 🏗️ Build real-world applications
+* [ ] 🤖 Start Machine Learning
+* [ ] 📊 Explore Data Science
+* [ ] 🌎 Contribute to Open Source
 
 ---
 
-## 💭 What I Believe
+# 🗺️ My Learning Journey
+
+<div align="center">
+
+```text
+                         ┌───────────────┐
+                         │       C       │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │      C++      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │ Competitive Programming│
+                    └────────────┬───────────┘
+                                 │
+                                 ▼
+                    ┌────────────────────────┐
+                    │ Algorithms & Data       │
+                    │ Structures              │
+                    └────────────┬───────────┘
+                                 │
+                                 │
+        ┌────────────────────────┴─────────────────────┐
+        │                                              │
+        ▼                                              ▼
+┌───────────────┐                              ┌───────────────┐
+│     Java      │                              │   Software    │
+│     & OOP     │                              │  Development  │
+└───────┬───────┘                              └───────┬───────┘
+        │                                              │
+        └──────────────────┬───────────────────────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │   Data Science   │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ Machine Learning │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │  Deep Learning  │
+                  └────────┬─────────┘
+                           │
+                           ▼
+                  ┌──────────────────┐
+                  │ Generative AI 🤖 │
+                  └──────────────────┘
+```
+
+</div>
+
+---
+
+# 🧩 Problem Solving Mindset
+
+```text
+Understand
+    ↓
+Break Down
+    ↓
+Find the Pattern
+    ↓
+Design the Solution
+    ↓
+Implement
+    ↓
+Test
+    ↓
+Optimize
+    ↓
+Learn
+    ↓
+Repeat 🔁
+```
 
 > **Learn → Practice → Build → Fail → Improve → Repeat.**
 
-Every problem I solve and every project I build is another step forward.
+---
+
+# 📚 Areas of Interest
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Competitive%20Programming-1F8ACB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Development-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -235,8 +416,12 @@ Every problem I solve and every project I build is another step forward.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
+**If you find something interesting, feel free to ⭐ the repository.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6A5ACD,100:8A2BE2&height=140&section=footer"/>
 
 </div>
